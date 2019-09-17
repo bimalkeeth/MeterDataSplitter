@@ -60,6 +60,7 @@ namespace BidEnergy.ActorSystem
                     using (var reader = new StreamReader(e.FullPath))
                     using (var csv = new CsvReader(reader))
                     {
+                        csv.Configuration.IgnoreReferences = true;
                         while (await csv.ReadAsync())
                         {
 
