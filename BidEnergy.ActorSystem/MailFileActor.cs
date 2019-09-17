@@ -1,4 +1,5 @@
 using System;
+using Akka;
 using Akka.Actor;
 using BidEnergy.ActorSystem.Enum;
 
@@ -9,6 +10,7 @@ namespace BidEnergy.ActorSystem
     {
         protected override void PreStart(){
 
+              Console.WriteLine("Actor is going to start");
         }
         protected override void PostStop()
         {
@@ -21,7 +23,8 @@ namespace BidEnergy.ActorSystem
             {
               case FileSource.Local:
 
-
+                   var act= Context.ActorOf(Props.Create<ProcessActor>());
+                   act.Ask("ddd");
                   break;
 
               case FileSource.Aws:

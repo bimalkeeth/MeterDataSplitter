@@ -20,6 +20,7 @@
             </e>
           </e>
         </e>
+        <e p="ProcessActor.cs" t="Include" />
       </e>
       <e p="MeterDataSplitter" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
