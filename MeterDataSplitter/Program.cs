@@ -7,8 +7,7 @@ namespace MeterDataSplitter
 {
     class Program
     {
-        private static bool siloStopping;
-        object syncLock=new object();
+
         static void Main(string[] args)
         {
 

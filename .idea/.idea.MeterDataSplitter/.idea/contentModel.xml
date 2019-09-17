@@ -23,6 +23,7 @@
         <e p="ProcessActor.cs" t="Include" />
       </e>
       <e p="MeterDataSplitter" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="DestinationFiles" t="Include" />
         <e p="MeterDataSplitter.csproj" t="IncludeRecursive" />
@@ -34,7 +35,9 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
-        <e p="SourceFiles" t="Include" />
+        <e p="SourceFiles" t="Include">
+          <e p="06.csv" t="Include" />
+        </e>
       </e>
       <e p="MeterDataSplitter.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

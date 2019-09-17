@@ -1,9 +1,9 @@
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\bin\Debug\netcoreapp2.2\BidEnergy.ActorSystem.deps.json
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\bin\Debug\netcoreapp2.2\BidEnergy.ActorSystem.dll
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\bin\Debug\netcoreapp2.2\BidEnergy.ActorSystem.pdb
-D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.csprojAssemblyReference.cache
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.csproj.CoreCompileInputs.cache
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.AssemblyInfoInputs.cache
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.AssemblyInfo.cs
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.dll
 D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.pdb
+D:\source\MeterDataSplitter\MeterDataSplitter\BidEnergy.ActorSystem\obj\Debug\netcoreapp2.2\BidEnergy.ActorSystem.csprojAssemblyReference.cache
