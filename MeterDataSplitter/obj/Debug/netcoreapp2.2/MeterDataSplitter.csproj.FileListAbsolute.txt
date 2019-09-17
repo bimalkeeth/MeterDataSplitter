@@ -1,0 +1,14 @@
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\MeterDataSplitter.deps.json
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\MeterDataSplitter.runtimeconfig.json
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\MeterDataSplitter.runtimeconfig.dev.json
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\MeterDataSplitter.dll
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\MeterDataSplitter.pdb
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\BidEnergy.ActorSystem.dll
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\bin\Debug\netcoreapp2.2\BidEnergy.ActorSystem.pdb
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.csprojAssemblyReference.cache
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.csproj.CoreCompileInputs.cache
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.AssemblyInfoInputs.cache
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.AssemblyInfo.cs
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.csproj.CopyComplete
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.dll
+D:\source\MeterDataSplitter\MeterDataSplitter\MeterDataSplitter\obj\Debug\netcoreapp2.2\MeterDataSplitter.pdb

@@ -1,0 +1,64 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\MeterDataSplitter\\MeterDataSplitter.csproj",
+    "projectName": "MeterDataSplitter",
+    "projectPath": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\MeterDataSplitter\\MeterDataSplitter.csproj",
+    "outputPath": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\MeterDataSplitter\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\BidEnergy.ActorSystem.csproj": {
+            "projectPath": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\BidEnergy.ActorSystem.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Akka": {
+          "target": "Package",
+          "version": "[1.3.14, )"
+        },
+        "Akka.DI.Core": {
+          "target": "Package",
+          "version": "[1.3.14, )"
+        },
+        "Akka.Logger.log4net": {
+          "target": "Package",
+          "version": "[1.3.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

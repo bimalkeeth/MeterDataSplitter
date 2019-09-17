@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\BidEnergy.ActorSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\BidEnergy.ActorSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\BidEnergy.ActorSystem.csproj",
+        "projectName": "BidEnergy.ActorSystem",
+        "projectPath": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\BidEnergy.ActorSystem.csproj",
+        "packagesPath": "C:\\Users\\bimal.kaluarachchi\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\MeterDataSplitter\\MeterDataSplitter\\BidEnergy.ActorSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bimal.kaluarachchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Akka": {
+              "target": "Package",
+              "version": "[1.3.14, )"
+            },
+            "Akka.DI.Core": {
+              "target": "Package",
+              "version": "[1.3.14, )"
+            },
+            "Akka.Logger.log4net": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Akka.Persistence": {
+              "target": "Package",
+              "version": "[1.3.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\bimal.kaluarachchi\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\bimal.kaluarachchi\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\bimal.kaluarachchi\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\bimal.kaluarachchi\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_MeterDataSplitter.-1082293809.00" t="ExcludeRecursive" />
+    <e p="D:\source\MeterDataSplitter\MeterDataSplitter" t="IncludeFlat">
+      <e p="BidEnergy.ActorSystem" t="IncludeRecursive">
+        <e p="BidEnergy.ActorSystem.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Enum" t="Include">
+          <e p="FileSource.cs" t="Include" />
+        </e>
+        <e p="MailFileActor.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="BidEnergy.ActorSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MeterDataSplitter" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DestinationFiles" t="Include" />
+        <e p="MeterDataSplitter.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="MeterDataSplitter.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SourceFiles" t="Include" />
+      </e>
+      <e p="MeterDataSplitter.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
